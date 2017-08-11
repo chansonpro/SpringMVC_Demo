@@ -8,9 +8,7 @@ import com.sun.org.apache.xpath.internal.SourceTree;
  */
 public class Test {
 public void dd(){
-    System.out.println("1234");
-    System.out.println("1234");
-    //System.out.println("1234");
+    System.out.println("zhd");
 
 }
 
